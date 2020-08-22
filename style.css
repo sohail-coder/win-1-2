@@ -34,3 +34,7 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+button{
+    height: 10px
+    width: 100px;
+}
